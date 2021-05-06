@@ -27,28 +27,28 @@
 4 - Git
     4.0 - Introduction
     4.1 - Installation
-    4.2 - Basic Commands and tasks
+    4.2 - Basic commands and tasks
     4.3 - Intermediate commands and tasks
     4.4 - Advanced commands and tasks
 
 5 - Python
     5.0 - Introduction
     5.1 - Installation
-    5.2 - Basic Commands and tasks
+    5.2 - Basic commands and tasks
     5.3 - Intermediate commands and tasks
     5.4 - Advanced commands and tasks
 
 6 - Ansible
     6.0 - Introduction
     6.1 - Installation
-    6.2 - Basic Commands and tasks
+    6.2 - Basic commands and tasks
     6.3 - Intermediate commands and tasks
     6.4 - Advanced commands and tasks
 
 7 - Ansible Web Executable (AWX)/ Ansible Tower
     7.0 - Introduction
     7.1 - Installation
-    7.2 - Basic Commands and tasks
+    7.2 - Basic commands and tasks
     7.3 - Intermediate commands and tasks
     7.4 - Advanced commands and tasks
 
@@ -58,17 +58,3 @@
     8.2 - Basic Commands and tasks
     8.3 - Intermediate commands and tasks
     8.4 - Advanced commands and tasks
-
-9 - Docker
-    9.0 - Introduction
-    9.1 - Installation
-    9.2 - Basic Commands and tasks
-    9.3 - Intermediate commands and tasks
-    9.4 - Advanced commands and tasks
-
-10 - Kubernetes
-    10.0 - Introduction
-    10.1 - Installation
-    10.2 - Basic Commands and tasks
-    10.3 - Intermediate commands and tasks
-    10.4 - Advanced commands and tasks
