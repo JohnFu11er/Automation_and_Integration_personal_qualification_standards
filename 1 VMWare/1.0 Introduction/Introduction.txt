@@ -8,3 +8,4 @@
     
     - Type 2 hypervisor:
         - VMWare Workstation
+            - Runs on top of a computer's operating system
