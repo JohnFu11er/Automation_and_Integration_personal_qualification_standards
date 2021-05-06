@@ -1,6 +1,6 @@
 0 - Introduction to Network Automation and Integration
     0.0 - Introduction
-    0.1 - Qualification Timeline
+    0.1 - Qualification timeline
     0.2 - Expectactions
 
 1 - VMWare
@@ -45,7 +45,7 @@
     6.3 - Intermediate commands and tasks
     6.4 - Advanced commands and tasks
 
-7 - Ansible Web Executable (AWX)/ Ansible Tower
+7 - Ansible Web Executable (AWX) and Ansible Tower
     7.0 - Introduction
     7.1 - Installation
     7.2 - Basic commands and tasks
@@ -55,6 +55,6 @@
 8 - NetBox
     8.0 - Introduction
     8.1 - Installation
-    8.2 - Basic Commands and tasks
+    8.2 - Basic commands and tasks
     8.3 - Intermediate commands and tasks
     8.4 - Advanced commands and tasks
