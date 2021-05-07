@@ -5,20 +5,33 @@
 
 1 - VMWare
     1.0 - Introduction
+        1.0.0 - Explain the principle of virtualization
+        1.0.1 - Explain the difference between a type 1 and type 2 hypervisor
     1.1 - Installation
+        1.1.0 - Successfully download VMWare Workstation
+        1.1.1 - Successfully install VMWare Workstation
     1.2 - Basic commands and tasks
+        1.2.0 - Successfully create a virtual machine
     1.3 - Intermediate commands and tasks
+        None
     1.4 - Advanced commands and tasks
+        None
 
 2 - Linux
     2.0 - Introduction
+        2.0.0 - Identify at least two Linux distributions
     2.1 - Installation
+        2.1.0 - Successfully install a linux distribution as a VM in VMWare workstation
+        2.1.2 - Successfully login to the Linux VM created in 2.1.0
     2.2 - Basic commands and tasks
+        2.2.0 - Successfully configure the VM for WWW network connectivity
     2.3 - Intermediate commands and tasks
     2.4 - Advanced commands and tasks
 
 3 - Visual Studio Code
     3.0 - Introduction
+        3.0.0 - Identify the need for an IDE
+        3.0.1 - Identify other IDE's and text editors that can be used to write code
     3.1 - Installation
     3.2 - Basic commands and tasks
     3.3 - Intermediate commands and tasks
@@ -34,9 +47,33 @@
 5 - Python
     5.0 - Introduction
     5.1 - Installation
+        5.1.0 - Successfully install Python 3.x
+        5.1.1 - Successfully configure the PYTHONPATH environmental variable
+        5.1.2 - Successfully install the most recent version of the Package Installer for Python (PIP)
     5.2 - Basic commands and tasks
+        5.2.0 - Demonstrate a basic "hello world" program
+        5.2.1 - Demonstrate the use of integers
+            5.2.1.0 - Demonstrate the use of int() to initialize an empty integer
+        5.2.2 - Demonstrate the use of strings
+            5.2.2.0 - Demonstrate the use of str() to initialize an empty string
+        5.2.3 - Demonstrate the use of lists
+            5.2.3.0 - Explian the numbering system of list elements
+            5.2.3.1 - Demonstrate the creation of a list variable by using brackets
+            5.2.3.2 - Demonstrate the use of list() to initialize an empty list
+            5.2.3.3 - Demonstrate the ability to lookup and element in a list
+            5.2.3.4 - Demonstrate the ability to assign a new element to a list in a specific position
+            5.2.3.5 - Demonstrate the use of append() on a list
+        5.2.4 - Demonstrate the use of a dictionary
+            5.2.1.0 - Demonstrate the use of dict() to initialize an empty dict
+        5.2.5 - Demonstrate the use of print() command
+        5.2.6 - Demonstrate the use of dir() command
+        5.2.7 - Demonstrate the use of input() command
+        5.2.8 - Demonstrate the use of type() command
+        5.2.9 - Demonstrate the use of basic math operators "+" "-" "/" "*"
     5.3 - Intermediate commands and tasks
+        5.3.0 - Demonstrate the use of Boolean variables
     5.4 - Advanced commands and tasks
+        5.4.0 - Demonstrate the use of a decorator function
 
 6 - Ansible
     6.0 - Introduction
