@@ -1,5 +1,0 @@
-1. Download VMWare Workstation Player from website:
-    https://www.vmware.com/products/workstation-player.html
-
-2. Follow installation instructions on VMWare's website:
-    https://kb.vmware.com/s/article/2053973
