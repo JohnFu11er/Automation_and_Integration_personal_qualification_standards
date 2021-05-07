@@ -1,4 +1,4 @@
-# What is VSCode? 
+# What is Visual Studio Code (VSCode)?
     A multi Operating System Integrated Development Enviorment or IDE.
 
 # And Why us it vice others?
