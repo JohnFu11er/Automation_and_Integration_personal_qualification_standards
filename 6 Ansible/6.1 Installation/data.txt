@@ -1,0 +1,3 @@
+Installing Ansible on RHEL or CENTOS
+
+sudo yum install ansible
