@@ -11,3 +11,5 @@ The majority of exams and training recommend that you install ansible in a pytho
     $ python -m pip install ansible
 
 You might get an error that the module virtualenv does not exist. If that happens install it with pip then proceed.
+
+*pip3 install virtualenv*
