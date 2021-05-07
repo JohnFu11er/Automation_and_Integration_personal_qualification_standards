@@ -7,5 +7,3 @@
  - Download and install at least one of the two mentioned about and another of your choice on VMware workstation 
   
   Depending on what you download you may have to use yum or apt-update to install system or application updates
-  
-
