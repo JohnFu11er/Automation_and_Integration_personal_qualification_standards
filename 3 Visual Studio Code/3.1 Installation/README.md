@@ -1,3 +1,6 @@
+<h1><u>Installation of Visual Studio Code</u></h1>
+
+
 <h1>We are going to get started by first installing VSCode</h1>
 
 -Installing VSCode
