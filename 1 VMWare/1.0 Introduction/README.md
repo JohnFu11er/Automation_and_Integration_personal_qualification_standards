@@ -1,4 +1,4 @@
-<h1><u>Inroduction to VMWare</u></h1>
+<h1><u>Introduction to VMWare</u></h1>
 
 VMWare is an America cloud computing and virtualization company headquartered in California.
 
