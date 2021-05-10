@@ -1,8 +1,8 @@
-<u><h1>Introduction:</u></h1>
+Introduction:
 
 Linux is a community of open-source Unix like operating systems that are based on the Linux Kernel.  It is a free and open-source operating system and the source code can be modified and distributed to anyone commercially or noncommercially under the GNU General Public License. 
 
-</u></h1>Architecture:</u></h1>
+Architecture:
 
 1.  Kernel: Kernel is the core of the Linux based operating system. It virtualizes the common hardware resources of the computer to provide each process with its virtual resources. This makes the process seem as if it is the sole process running on the machine. The kernel is also responsible for preventing and mitigating conflicts between different processes. Different types of the kernel are: 
         Monolithic Kernel
