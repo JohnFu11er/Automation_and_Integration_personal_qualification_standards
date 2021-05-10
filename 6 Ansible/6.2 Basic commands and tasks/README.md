@@ -1,0 +1,2 @@
+# Basic Commands and Tasks:
+Before you get started with Ansible it is improtant that you read the [Ansible User Guide](https://docs.ansible.com/ansible/latest/user_guide/index.html) Especially the section on inventory.
