@@ -9,7 +9,7 @@ Architecture:
         Hybrid kernels
         Exo kernels
         Micro kernels
-2.  System Library: Isthe special types of functions that are used to implement the functionality of the operating system.
+2.  System Library: Is the special types of functions that are used to implement the functionality of the operating system.
 3.  Shell: It is an interface to the kernel which hides the complexity of the kernel’s functions from the users. It takes commands from the user and executes the kernel’s functions.
 4.  Hardware Layer: This layer consists all peripheral devices like RAM/ HDD/ CPU etc.
 5.  System Utility: It provides the functionalities of an operating system to the user.

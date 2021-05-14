@@ -7,3 +7,7 @@ A repository, or Git project, encompasses the entire collection of files and fol
 Working in repositories keeps development projects organized and protected. Developers are encouraged to fix bugs, or create fresh features, without fear of derailing mainline development efforts. Git facilitates this through the use of topic branches: lightweight pointers to commits in history that can be easily created and deprecated when no longer needed.
 
 Through platforms like GitHub, Git also provides more opportunities for project transparency and collaboration. Public repositories help teams work together to build the best possible final product.
+
+
+
+GIT EXERCISES NEED TO BE DONE IN PINEWOOD

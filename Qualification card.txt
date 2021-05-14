@@ -33,19 +33,26 @@
         3.0.0 - Identify the need for an IDE
         3.0.1 - Identify other IDE's and text editors that can be used to write code
     3.1 - Installation
+        3.1.1 - Successfully install VSCode on device
+        3.2.2 - Successfully add extensions to VSCode
     3.2 - Basic commands and tasks
     3.3 - Intermediate commands and tasks
     3.4 - Advanced commands and tasks
 
 4 - Git
     4.0 - Introduction
+        4.0.1 - Identify and explain the benefit of Git
     4.1 - Installation
+        4.1.1 - Successfully run Git from the CMD and Desktop
     4.2 - Basic commands and tasks
+        4.2.1 - Demonstrate on the command line how to clone, create a branch, push, pull and merge a repository
+        4.2.2 - Successfully run a push/pull/merge on the GitHub Webpage
     4.3 - Intermediate commands and tasks
     4.4 - Advanced commands and tasks
 
 5 - Python
     5.0 - Introduction
+        5.0.1 - Attempt all Code Reviews 
     5.1 - Installation
         5.1.0 - Successfully install Python 3.x
         5.1.1 - Successfully configure the PYTHONPATH environmental variable
@@ -57,7 +64,7 @@
         5.2.2 - Demonstrate the use of strings
             5.2.2.0 - Demonstrate the use of str() to initialize an empty string
         5.2.3 - Demonstrate the use of lists
-            5.2.3.0 - Explian the numbering system of list elements
+            5.2.3.0 - Explain the numbering system of list elements
             5.2.3.1 - Demonstrate the creation of a list variable by using brackets
             5.2.3.2 - Demonstrate the use of list() to initialize an empty list
             5.2.3.3 - Demonstrate the ability to lookup and element in a list
@@ -77,13 +84,17 @@
 
 6 - Ansible
     6.0 - Introduction
+        6.1.0 - Describe the purpose of Ansible and how it interacts with Git
     6.1 - Installation
+        6.1.1 - Successfully install Ansible
     6.2 - Basic commands and tasks
+        6.2.1 - 
     6.3 - Intermediate commands and tasks
     6.4 - Advanced commands and tasks
 
 7 - Ansible Web Executable (AWX) and Ansible Tower
     7.0 - Introduction
+        7.0.1 - Explain AWX and the difference between AWX and Ansible Tower
     7.1 - Installation
     7.2 - Basic commands and tasks
     7.3 - Intermediate commands and tasks
