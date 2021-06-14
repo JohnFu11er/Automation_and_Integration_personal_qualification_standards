@@ -10,7 +10,7 @@
     1.1 - Installation
         1.1.0 - Successfully download VMWare Workstation
         1.1.1 - Successfully install VMWare Workstation
-    1.2 - Basic commands and tasks
+    1.2 - Commands and tasks
         1.2.0 - Successfully create a virtual machine
 
 2 - Linux
@@ -36,82 +36,101 @@
         2.2.13 - Disable a process from the terminal
         2.2.14 - Start a process from the terminal
         2.2.15 - Stop a process from the terminal
+        2.2.17 - Install ansible from the terminal
+        2.2.18 - Perfrom a system update from the terminal
 
 3 - Visual Studio Code
     3.0 - Introduction
         3.0.0 - Identify the need for an IDE
         3.0.1 - Identify other IDE's and text editors that can be used to write code
     3.1 - Installation
-        3.1.1 - Successfully install VSCode on device
-        3.2.2 - Successfully add extensions to VSCode
-    3.2 - Basic commands and tasks
-    3.3 - Intermediate commands and tasks
-    3.4 - Advanced commands and tasks
+        3.1.0 - Install VSCode on device
+    3.2 - Commands and tasks
+        3.2.0 - Add the "Remote SSH" extension to VSCode
+        3.2.1 - Use the "Remote SSH" extention to SSH into a computer
+
 
 4 - Git
     4.0 - Introduction
-        4.0.1 - Identify and explain the benefit of Git
+        4.0.0 - Identify and explain the benefit of Git
     4.1 - Installation
-        4.1.1 - Successfully run Git from the CMD and Desktop
+        4.1.0 - Run Git from the CMD and Desktop
     4.2 - Basic commands and tasks
-        4.2.1 - Demonstrate on the command line how to clone, create a branch, push, pull and merge a repository
-        4.2.2 - Successfully run a push/pull/merge on the GitHub Webpage
-    4.3 - Intermediate commands and tasks
-    4.4 - Advanced commands and tasks
+        4.2.0 - Configure your local git configs for username and email
+        4.2.1 - Clone an online repository to a local repository on your computer
+        4.2.2 - Create a branch on an online repository
+        4.2.3 - Delete a branch on an online repository
+        4.2.4 - Create a branch on a local repository
+        4.2.5 - Delete a branch on a local repository
+        4.2.6 - Pull from an online repository to your local repository
+        4.2.7 - Push from a local repository to your online repository
+        4.2.8 - Merge a branch on your local repository into the "Main" branch
+        4.2.9 - Create a merge request on the Gitlab website
+        4.2.10 - Merge two branches on the Gitlab website
 
 5 - Python
     5.0 - Introduction
         5.0.1 - Attempt all Code Reviews 
     5.1 - Installation
-        5.1.0 - Successfully install Python 3.x
-        5.1.1 - Successfully configure the PYTHONPATH environmental variable
-        5.1.2 - Successfully install the most recent version of the Package Installer for Python (PIP)
-    5.2 - Basic commands and tasks
-        5.2.0 - Demonstrate a basic "hello world" program
-        5.2.1 - Demonstrate the use of integers
-            5.2.1.0 - Demonstrate the use of int() to initialize an empty integer
-        5.2.2 - Demonstrate the use of strings
-            5.2.2.0 - Demonstrate the use of str() to initialize an empty string
-        5.2.3 - Demonstrate the use of lists
-            5.2.3.0 - Explain the numbering system of list elements
-            5.2.3.1 - Demonstrate the creation of a list variable by using brackets
-            5.2.3.2 - Demonstrate the use of list() to initialize an empty list
-            5.2.3.3 - Demonstrate the ability to lookup and element in a list
-            5.2.3.4 - Demonstrate the ability to assign a new element to a list in a specific position
-            5.2.3.5 - Demonstrate the use of append() on a list
-        5.2.4 - Demonstrate the use of a dictionary
-            5.2.1.0 - Demonstrate the use of dict() to initialize an empty dict
-        5.2.5 - Demonstrate the use of print() command
-        5.2.6 - Demonstrate the use of dir() command
-        5.2.7 - Demonstrate the use of input() command
-        5.2.8 - Demonstrate the use of type() command
-        5.2.9 - Demonstrate the use of basic math operators "+" "-" "/" "*"
-    5.3 - Intermediate commands and tasks
-        5.3.0 - Demonstrate the use of Boolean variables
-    5.4 - Advanced commands and tasks
-        5.4.0 - Demonstrate the use of a decorator function
+        5.1.0 - Install Python 3.x
+        5.1.1 - Configure the PYTHONPATH environmental variable
+        5.1.2 - Install the most recent version of the Package Installer for Python (PIP)
+    5.2 - Commands and tasks
+        5.2.0 - Demonstrate a basic print "hello world" program
+        5.2.1 - Demonstrate the ability to assign data to a variable
+        5.2.2 - Demonstrate the use of integers
+            5.2.2.0 - Demonstrate the use of int() to initialize an empty integer
+        5.2.3 - Demonstrate the use of strings
+            5.2.3.0 - Demonstrate the use of str() to initialize an empty string
+        5.2.4 - Demonstrate the use of lists
+            5.2.4.0 - Explain the numbering system of list elements
+            5.2.4.1 - Demonstrate the creation of a list variable by using brackets
+            5.2.4.2 - Demonstrate the use of list() to initialize an empty list
+            5.2.4.3 - Demonstrate the ability to lookup and element in a list
+            5.2.4.4 - Demonstrate the ability to assign a new element to a list in a specific position
+            5.2.4.5 - Demonstrate the use of append() on a list
+        5.2.5 - Demonstrate the use of a dictionary
+            5.2.5.0 - Demonstrate the use of dict() to initialize an empty dict
+            5.2.5.1 - Demonstrate the ability to add a key vaule pair to a dictionary
+            5.2.5.2 - Demonstrate the ability to change the value of a specific key
+            5.2.5.3 - Demonstrate the ability to look up a value of a specific key
+            5.2.5.4 - Demonstrate the ability to use the keys() function
+            5.2.5.5 - Demonstrate the ability to use the values() function
+            5.2.5.6 - Demonstrate the ability to use the items() function
+            5.2.5.7 - Demonstrate the ability to use the setdefault() function
+        5.2.6 - Demonstrate the use of print() command
+            5.2.6.0 - Demonstrate the ability to use "f-strings" in print statements
+            5.2.6.1 - Demonstrate the ability to print variables
+            5.2.6.2 - Demonstrate the ability to print str() and variables using the "+"
+        5.2.7 - Demonstrate the use of dir() command
+        5.2.8 - Demonstrate the use of input() command
+        5.2.9 - Demonstrate the use of type() command
+        5.2.10 - Demonstrate the use of basic math operators "+" "-" "/" "*"
+        5.2.11 - Demonstrate the use of Boolean variables
+        5.2.12 - Demonstrate the use of a function
+        5.2.13 - Demonstrate the use of the "return" statement
+        5.2.14 - Build functions that takes the specified arguments and performs the following task:
+            5.2.14.0 - Returns the addition of two numbers. Agrs = num_1, num_2
+            5.2.14.0 - Returns all the numbers from 0 to the specified argument. Agrs = top_num
+            5.2.14.0 - Returns every even number from 0 to the specified argument. Agrs = top_num
 
 6 - Ansible
     6.0 - Introduction
         6.1.0 - Describe the purpose of Ansible and how it interacts with Git
     6.1 - Installation
         6.1.1 - Successfully install Ansible
-    6.2 - Basic commands and tasks
+    6.2 - Commands and tasks
         6.2.1 - 
-    6.3 - Intermediate commands and tasks
-    6.4 - Advanced commands and tasks
 
 7 - Ansible Web Executable (AWX) and Ansible Tower
     7.0 - Introduction
         7.0.1 - Explain AWX and the difference between AWX and Ansible Tower
     7.1 - Installation
-    7.2 - Basic commands and tasks
-    7.3 - Intermediate commands and tasks
-    7.4 - Advanced commands and tasks
+    7.2 - Commands and tasks
 
 8 - NetBox
     8.0 - Introduction
     8.1 - Installation
-    8.2 - Basic commands and tasks
+    8.2 - Commands and tasks
     8.3 - Intermediate commands and tasks
     8.4 - Advanced commands and tasks
