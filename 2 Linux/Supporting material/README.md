@@ -1,0 +1,1 @@
+[bashcrawl](https://github.com/mks22-dw/bashcrawl) - a good way to learn basic Linux termnial commands

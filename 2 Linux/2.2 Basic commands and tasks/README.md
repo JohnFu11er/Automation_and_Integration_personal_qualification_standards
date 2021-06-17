@@ -3,6 +3,7 @@ You should be comfortable with navigating and making changes within the Linux fi
 Basic Commands:
 -   pwd - find out the path of the current working directory (folder) you’re in
 -   cd - navigate the files and directories of linux
+-   ls - list of files on your UNIX or Linux system
 -   cat - used to list the contents of a file on the standard output (sdout)
 -   cp - to copy files from the current directory to a different directory
 -   mv - command is to move files, although it can also be used to rename files
@@ -10,4 +11,4 @@ Basic Commands:
 -   touch - command allows you to create a blank new file through the Linux command line
 -   find - earches for files and directories
 -   sudo - this command enables you to perform tasks that require administrative or root permissions
-  
+-   man - will show the manual instruction
