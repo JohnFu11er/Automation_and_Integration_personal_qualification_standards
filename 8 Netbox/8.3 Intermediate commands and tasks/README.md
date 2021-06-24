@@ -5,5 +5,5 @@ Now that you are able to search for specific information and find it, below are 
 - Create a new device in Netbox
 - Change the IP address on a specific devices interface
 - Add a tag when necessary
-- Define config context 
+- Define config context
 - Create a new rack and populate it
