@@ -7,4 +7,4 @@ In the advance Netbox box you should be able to describe and know how to complet
 - Create a custom link
 - Create a custom field
 - Create a Config context
-  
+- Create a new site and rack configure it with devices and IPs
